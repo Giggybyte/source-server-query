@@ -1,5 +1,5 @@
 # Source Server Query
-# Command-line tool by giggybyte for LGSM
+# Command-line tool by Giggybyte for LGSM
 # Shoutouts to Mom
 
 # Imports
